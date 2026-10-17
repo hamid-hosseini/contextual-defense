@@ -1,0 +1,4 @@
+# Python and notebook caches, in every folder
+__pycache__/
+.ipynb_checkpoints/
+*.egg-info/
